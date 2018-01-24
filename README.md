@@ -1,9 +1,8 @@
-# iOS-codepath
-## Purpose: CST495 Table of Contents | README with Quick Repo Links 
-This repo was created for Professor Jason Henderson of CST 495 to conveniently access all assignments, labs, and projects for this Spring 2018 semester at Cal State Monterey Bay. :)
+## CST495 Quick Links to Code
+Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments, labs, and projects for CST 495: iOS Programming, facilitated by Jason Henderson this Spring 2018 semester at California State University, Monterey Bay. :)
 
 ## Assignments
-* Lorem Ipsum
+* 1/26 **TODO** Prework, [Tip Calculator](https://courses.codepath.com/snippets/ios_university/prework).
 
 ## Labs
 * Lorem Ipsum
