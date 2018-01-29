@@ -2,7 +2,7 @@
 Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments, labs, and projects for CST 495: iOS Programming, facilitated by [Jason Henderson](https://github.com/jasonhenderson) this Spring 2018 semester at California State University, Monterey Bay.
 
 ## Assignments
-[x] 1/28  [Prework](https://courses.codepath.com/snippets/ios_university/prework), [Tip Calculator](https://github.com/MaveyMa/tippy).
+* [x] 1/28  [Prework](https://courses.codepath.com/snippets/ios_university/prework), [Tip Calculator](https://github.com/MaveyMa/tippy).
 
 ## Labs
 * Lorem Ipsum
