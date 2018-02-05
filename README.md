@@ -9,7 +9,7 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 
 ## Labs
 * [ ] 02/04  [Week 1](https://courses.codepath.com/courses/ios_university/unit/1#!exercises): [Tumblr - Feed](https://github.com/MaveyMa/HONY-tumblr-feed). Overdue.
-* [ ] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!exercises): [Tumblr - Feed](https://github.com/MaveyMa/HONY-tumblr-feed).
+* [ ] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!exercises): [Tumblr - Details Screen](https://github.com/MaveyMa/HONY-tumblr-feed).
 
 ## Projects
 * Lorem Ipsum
