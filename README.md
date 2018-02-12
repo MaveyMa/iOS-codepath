@@ -4,7 +4,7 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 ## Assignments
 * [x] 01/28  [Prework](https://courses.codepath.com/snippets/ios_university/prework): [Tip Calculator](https://github.com/MaveyMa/tippy).
 * [x] 02/04  [Week 1](https://courses.codepath.com/courses/ios_university/unit/1#!assignment): [Flix - Part 1](https://github.com/MaveyMa/flix).
-* [ ] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!assignment): [Flix - Part 2](https://github.com/MaveyMa/flix).
+* [x] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!assignment): [Flix - Part 2](https://github.com/MaveyMa/flix).
 
 
 ## Labs
