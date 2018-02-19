@@ -7,7 +7,7 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [x] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!assignment): [Flix - Part 2](https://github.com/MaveyMa/flix).
 * [x] 02/18  [Week 3](https://courses.codepath.com/courses/ios_university/unit/3#!assignment): [Yelp](https://github.com/MaveyMa/yelp).
 * [ ] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!assignment): [Build Instagram from the Ground Up
-]().
+](https://github.com/MaveyMa/instafam).
 
 
 ## Labs
