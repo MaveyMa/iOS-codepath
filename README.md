@@ -10,10 +10,10 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [ ] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!assignment): [Twitter](https://github.com/MaveyMa/twitter).
 
 ## Labs
-* [x] 02/04  [Week 1](https://courses.codepath.com/courses/ios_university/unit/1#!exercises): [Tumblr - Feed](https://github.com/MaveyMa/HONY-tumblr-feed). Overdue.
+* [x] 02/04  [Week 1](https://courses.codepath.com/courses/ios_university/unit/1#!exercises): [Tumblr - Feed](https://github.com/MaveyMa/HONY-tumblr-feed). Submitted 2/05.
 * [x] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!exercises): [Tumblr - Details Screen](https://github.com/MaveyMa/HONY-tumblr-feed).
 * [x] 02/18  [Week 3](https://courses.codepath.com/courses/ios_university/unit/3#!exercises): [Flix - Auto Layout](https://github.com/MaveyMa/flix).
-* [ ] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!exercises): [Parse Chat](). Overdue.
+* [x] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!exercises): [Parse Chat](). Submitted 2/27.
 * [ ] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!exercises): [Models and Networking]().
 
 ## Projects
@@ -23,3 +23,9 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [_The Basics_ from Apple's official Swift documentation](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 * [Jason's iOS examples](https://github.com/jasonhenderson/examples-ios)
 * [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#the-official-raywenderlichcom-swift-style-guide)
+
+## Useful links
+* [ImgBB](https://imgbb.com/) - Upload and share images
+* [App Icon Maker](http://appiconmaker.co/) - creates downloadable png files of various sizes
+* [CodePath iOS Guide](https://guides.codepath.com/ios) - Fork on https://github.com/codepath/ios_guides/wiki
+
