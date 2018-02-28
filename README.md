@@ -17,7 +17,7 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [ ] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!exercises): [Models and Networking]().
 
 ## Projects
-* Lorem Ipsum
+* [] https://github.com/InsertDreamsHere/Insert-Dreams-Here
 
 ## References that contributed to my learning
 * [_The Basics_ from Apple's official Swift documentation](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
