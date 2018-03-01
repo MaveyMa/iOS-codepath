@@ -13,7 +13,7 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [x] 02/04  [Week 1](https://courses.codepath.com/courses/ios_university/unit/1#!exercises): [Tumblr - Feed](https://github.com/MaveyMa/HONY-tumblr-feed). Submitted 2/05.
 * [x] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!exercises): [Tumblr - Details Screen](https://github.com/MaveyMa/HONY-tumblr-feed).
 * [x] 02/18  [Week 3](https://courses.codepath.com/courses/ios_university/unit/3#!exercises): [Flix - Auto Layout](https://github.com/MaveyMa/flix).
-* [x] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!exercises): [Parse Chat](). Submitted 2/27.
+* [x] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!exercises): [Parse Chat](https://github.com/MaveyMa/parseChat). Submitted 2/27.
 * [ ] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!exercises): [Models and Networking]().
 
 ## Projects
