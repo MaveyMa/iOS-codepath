@@ -7,14 +7,16 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [x] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!assignment): [Flix - Part 2](https://github.com/MaveyMa/flix).
 * [x] 02/18  [Week 3](https://courses.codepath.com/courses/ios_university/unit/3#!assignment): [Yelp](https://github.com/MaveyMa/yelp).
 * [x] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!assignment): [Build Instagram from the Ground Up](https://github.com/MaveyMa/instafam).
-* [ ] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!assignment): [Twitter](https://github.com/MaveyMa/twitter-ish).
+* [x] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!assignment): [Twitter - Part 1](https://github.com/MaveyMa/twitter-ish).
+* [ ] 03/11  [Week 6](https://courses.codepath.com/courses/ios_university/unit/6#!assignment): [Twitter - Part 2](https://github.com/MaveyMa/twitter-ish).
 
 ## Labs
 * [x] 02/04  [Week 1](https://courses.codepath.com/courses/ios_university/unit/1#!exercises): [Tumblr - Feed](https://github.com/MaveyMa/HONY-tumblr-feed). Submitted 2/05.
 * [x] 02/11  [Week 2](https://courses.codepath.com/courses/ios_university/unit/2#!exercises): [Tumblr - Details Screen](https://github.com/MaveyMa/HONY-tumblr-feed).
 * [x] 02/18  [Week 3](https://courses.codepath.com/courses/ios_university/unit/3#!exercises): [Flix - Auto Layout](https://github.com/MaveyMa/flix).
 * [x] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!exercises): [Parse Chat](https://github.com/MaveyMa/parseChat). Submitted 2/27.
-* [ ] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!exercises): [Models and Networking]().
+* [x] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!exercises): [Models and Networking](https://github.com/MaveyMa/flix). Submitted 3/05. 
+* [ ] 03/11  [Week 6](https://courses.codepath.com/courses/ios_university/unit/6#!exercises): [Photo Map]().
 
 ## Projects
 * [ ] [Group Project](https://courses.codepath.com/courses/ios_university/pages/group_project): [GitHub Repo](https://github.com/InsertDreamsHere/Insert-Dreams-Here).
