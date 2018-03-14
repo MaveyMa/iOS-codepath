@@ -8,7 +8,7 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [x] 02/18  [Week 3](https://courses.codepath.com/courses/ios_university/unit/3#!assignment): [Yelp](https://github.com/MaveyMa/yelp).
 * [x] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!assignment): [Build Instagram from the Ground Up](https://github.com/MaveyMa/instafam).
 * [x] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!assignment): [Twitter - Part 1](https://github.com/MaveyMa/twitter-ish).
-* [ ] 03/11  [Week 6](https://courses.codepath.com/courses/ios_university/unit/6#!assignment): [Twitter - Part 2](https://github.com/MaveyMa/twitter-ish).
+* [x] 03/11  [Week 6](https://courses.codepath.com/courses/ios_university/unit/6#!assignment): [Twitter - Part 2](https://github.com/MaveyMa/twitter-ish). Submitted 3/13.
 
 ## Labs
 * [x] 02/04  [Week 1](https://courses.codepath.com/courses/ios_university/unit/1#!exercises): [Tumblr - Feed](https://github.com/MaveyMa/HONY-tumblr-feed). Submitted 2/05.
