@@ -16,7 +16,7 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [x] 02/18  [Week 3](https://courses.codepath.com/courses/ios_university/unit/3#!exercises): [Flix - Auto Layout](https://github.com/MaveyMa/flix).
 * [x] 02/25  [Week 4](https://courses.codepath.com/courses/ios_university/unit/4#!exercises): [Parse Chat](https://github.com/MaveyMa/parseChat). Submitted 02/27.
 * [x] 03/04  [Week 5](https://courses.codepath.com/courses/ios_university/unit/5#!exercises): [Models and Networking](https://github.com/MaveyMa/flix). Submitted 03/05. 
-* [ ] 03/11  [Week 6](https://courses.codepath.com/courses/ios_university/unit/6#!exercises): [Photo Map](https://github.com/MaveyMa/photomap). Submitted 04/08.
+* [x] 03/11  [Week 6](https://courses.codepath.com/courses/ios_university/unit/6#!exercises): [Photo Map](https://github.com/MaveyMa/photomap). Submitted 04/08.
 * [ ] 03/25  [Week 7](https://courses.codepath.com/courses/ios_university/unit/7#!exercises): [Canvas]().
 * [ ] 04/01  [Week 8](https://courses.codepath.com/courses/ios_university/unit/8#!exercises): [Tinder]().
 
