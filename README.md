@@ -21,7 +21,7 @@ Conveniently access all of Mavey's [CodePath](https://codepath.com/) assignments
 * [ ] 04/01  [Week 8](https://courses.codepath.com/courses/ios_university/unit/8#!exercises): [Tinder]().
 
 ## Projects
-* [ ] [Group Project](https://courses.codepath.com/courses/ios_university/pages/group_project): [GitHub Repo](https://github.com/InsertDreamsHere/Insert-Dreams-Here).
+* [x] [Group Project](https://courses.codepath.com/courses/ios_university/pages/group_project): [GitHub Repo](https://github.com/InsertDreamsHere/Insert-Dreams-Here).
 
 ## References that contributed to my learning
 * [_The Basics_ from Apple's official Swift documentation](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
